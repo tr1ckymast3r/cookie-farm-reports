@@ -1,15 +1,15 @@
 # 📊 Cookie Farm Dashboard
 
-*Last updated: 2026-05-24 16:41:27 UTC*
+*Last updated: 2026-05-24 18:50:27 UTC*
 
 ## Overview
 
 | Metric | All Time | Last 7 Days |
 |---|---|---|
 | Total Sessions | 1 | 1 |
-| Total Cookies | 67 | 67 |
+| Total Cookies | 5,207 | 5,207 |
 | Unique Domains | 0 | — |
-| Avg Profiles/Session | 3.0 | — |
+| Avg Profiles/Session | 53.0 | — |
 
 ## 🏥 Profile Health
 
@@ -19,7 +19,7 @@
 
 | Date | Profiles | Cookies | Domains |
 |---|---|---|---|
-| 2026-05-24 ✅ | 3 | 67 | 0 |
+| 2026-05-24 ✅ | 53 | 5207 | 0 |
 
 ## 📁 Reports by Month
 
